@@ -33,12 +33,10 @@ A small program written in python with a GUI that allows users to synthesize vid
 - [上手指南](#上手指南)
   - [开发前的配置要求](#开发前的配置要求)
   - [安装步骤](#安装步骤)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
 - [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
+
 - [作者](#作者)
 - [鸣谢](#鸣谢)
 
@@ -64,9 +62,7 @@ git clone https://github.com/kaixuanjun/Video-compositing-audio-tool.git
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [ffmpeg](https://ffmpeg.org/)
 
 ### 贡献者
 
