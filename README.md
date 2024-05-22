@@ -76,7 +76,7 @@ kaixuanjun 【[bilibili](https://space.bilibili.com/486362471)】
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/kaixuanjun/Video-compositing-audio-tool/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/kaixuanjun/Video-compositing-audio-tool/blob/main/LICENSE.txt)
 
 
 
