@@ -90,7 +90,7 @@ git clone https://github.com/kaixuanjun/Video-compositing-audio-tool.git
 该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
 ### 作者
-kaixuanjun [bilibili](https://space.bilibili.com/486362471)
+kaixuanjun 【[bilibili](https://space.bilibili.com/486362471)】
 
 ### 版权说明
 
