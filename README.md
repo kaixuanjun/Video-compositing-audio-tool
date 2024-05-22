@@ -23,20 +23,17 @@ A small program written in python with a GUI that allows users to synthesize vid
   <p align="center">
     一个由python编写的带有GUI的小程序，允许用户合成视频和音频(可以批量合成)，并且没有学习成本。
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/tree/main"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/issues">报告Bug</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/issues">提出新特性</a>
   </p>
 
 </p>
-
-
- 本篇README.md面向开发者
  
 ## 目录
 
