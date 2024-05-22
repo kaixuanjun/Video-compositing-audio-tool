@@ -8,8 +8,7 @@ A small program written in python with a GUI that allows users to synthesize vid
 <br />
 
 <p align="center">
-  <a href="https://ffmpeg.org/favicon.ico">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://ffmpeg.org/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">视频音频合并工具</h3>
