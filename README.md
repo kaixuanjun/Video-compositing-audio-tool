@@ -1,6 +1,6 @@
 # Video-compositing-audio-tool
 
-A small program written in python with a GUI that allows users to synthesize video and audio (which can be synthesized in bulk) with no learning costs.
+A small program written in python with a GUI that allows users to call ffmpeg to synthesize video and audio (which can be synthesized in bulk) and has no learning costs.
 
 <!-- PROJECT SHIELDS -->
 
@@ -13,7 +13,7 @@ A small program written in python with a GUI that allows users to synthesize vid
 
   <h3 align="center">视频音频合并工具</h3>
   <p align="center">
-    一个由python编写的带有GUI的小程序，允许用户合成视频和音频(可以批量合成)，并且没有学习成本。
+    一个用python编写的带有GUI的小程序，允许用户调用ffmpeg来合成视频和音频(可以批量合成)，并且没有学习成本。
     <br />
     <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/tree/main"><strong>探索本项目的文档 »</strong></a>
     <br />
