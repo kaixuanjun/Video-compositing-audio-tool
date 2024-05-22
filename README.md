@@ -1,7 +1,19 @@
 ![](https://ffmpeg.org/favicon.ico#pic_center) 
 # ***视频音频合并工具*** 
 一个用python编写的带有GUI的小程序，允许用户调用ffmpeg来合成视频和音频(可以批量合成)，并且没有学习成本。
+
+
+
+![image](https://github.com/kaixuanjun/Video-compositing-audio-tool/assets/97443013/d3ce7741-993d-48ea-b58d-fca3fae0720b)
+
+
+![image](https://github.com/kaixuanjun/Video-compositing-audio-tool/assets/97443013/91fa51db-307e-456b-adc2-9596b5a52924)
+
+
 [报告bug & 提出新特性](https://github.com/kaixuanjun/Video-compositing-audio-tool/issues)
+
+
+
 ## 目录
 
 - [上手指南](#上手指南)
