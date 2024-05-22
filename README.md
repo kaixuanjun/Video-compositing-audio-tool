@@ -8,7 +8,7 @@ A small program written in python with a GUI that allows users to synthesize vid
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a href="https://ffmpeg.org/favicon.ico">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
