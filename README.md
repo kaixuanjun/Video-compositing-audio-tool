@@ -1,24 +1,18 @@
-# Video-compositing-audio-tool
-
-A small program written in python with a GUI that allows users to call ffmpeg to synthesize video and audio (which can be synthesized in bulk) and has no learning costs.
-<center>
-    ![ffmpeg](https://ffmpeg.org/favicon.ico)
-    ***视频音频合并工具***
-    一个用python编写的带有GUI的小程序，允许用户调用ffmpeg来合成视频和音频(可以批量合成)，并且没有学习成本。
-    [报告bug & 提出新特性](https://github.com/kaixuanjun/Video-compositing-audio-tool/issues)
-</center>
-      
+![](https://ffmpeg.org/favicon.ico#pic_center) 
+# ***视频音频合并工具*** 
+一个用python编写的带有GUI的小程序，允许用户调用ffmpeg来合成视频和音频(可以批量合成)，并且没有学习成本。
+[报告bug & 提出新特性](https://github.com/kaixuanjun/Video-compositing-audio-tool/issues)
 ## 目录
 
 - [上手指南](#上手指南)
   - [开发前的配置要求](#开发前的配置要求)
   - [安装步骤](#安装步骤)
-- [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
 
 - [作者](#作者)
 - [鸣谢](#鸣谢)
+- [版权说明](#版权说明)
 
 ### 上手指南
 
@@ -27,22 +21,23 @@ A small program written in python with a GUI that allows users to call ffmpeg to
 
 
 ###### 开发前的配置要求
+1.安装[ffmpeg](https://ffmpeg.org/)  
 
-安装tkinter
-```sh
-pip install tk
-```
+2.安装tkinter
+    ```
+    pip install tk
+    ```
 
 ###### **安装步骤**
 
-克隆此库
-```sh
-git clone https://github.com/kaixuanjun/Video-compositing-audio-tool.git
-```
+1.克隆此库
+    ```
+    git clone https://github.com/kaixuanjun/Video-compositing-audio-tool.git
+    ```
 
-### 使用到的框架
+2.使此库与[开发前的配置要求](#开发前的配置要求)中安装的ffmpeg位于同一目录下
 
-- [ffmpeg](https://ffmpeg.org/)
+3.在此目录创建空文件 *command.bat* 和 *commands.bat* 
 
 ### 贡献者
 
@@ -67,6 +62,9 @@ git clone https://github.com/kaixuanjun/Video-compositing-audio-tool.git
 
 ### 作者
 kaixuanjun 【[bilibili](https://space.bilibili.com/486362471)】
+
+### 鸣谢
+[天津市第二](https://www.tj2nankai.cn/)[**原神**](https://www.yuanshen.com/#/)[学校](https://www.tj2nankai.cn/)
 
 ### 版权说明
 
