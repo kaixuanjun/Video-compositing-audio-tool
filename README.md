@@ -18,11 +18,10 @@ A small program written in python with a GUI that allows users to call ffmpeg to
     <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/tree/main"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
-    ·
-    <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/kaixuanjun/Video-compositing-audio-tool/issues">提出新特性</a>
+    
+    [报告bug & 提出新特性](https://github.com/kaixuanjun/Video-compositing-audio-tool/issues)
+
+    
   </p>
 
 </p>
